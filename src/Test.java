@@ -15,6 +15,7 @@ public class Test {
 			sum=(sum*10)+rem;
 			n=n/10;
 		}
+		System.out.println("1st time change code");
 		if(temp==sum) {
 			System.out.println(temp+" is a palindrome number");
 		}
